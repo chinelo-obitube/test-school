@@ -7,3 +7,6 @@ This assessment is in partial fulfillment of the requirements for the She Code A
 1. Python: A high-level, general-purpose programming language.
 2. Flask: A micro web framework written in Python. Flask is used for developing web applications using python, implemented on Werkzeug and Jinja2.
 3. Docker: an application build and deployment tool. A set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.
+
+## Steps 
+1. Clone the newly created repo. '''git clone 
